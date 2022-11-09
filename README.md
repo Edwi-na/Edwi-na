@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="![xiuming Li](https://github.com/Edwi-na/Edwi-na/blob/main/intro.gif)" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="![xiuming Li](https://github.com/Edwi-na/Edwi-na/blob/main/intro.gif)">
 </p>
 I am a MS Student at Columbia University who is passionate about writing code, solving problems, automating stuff, and build models. 
 
