@@ -13,7 +13,9 @@ I am a MS Student at Columbia University who is passionate about writing code, s
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/xiumingli/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:xiuming.l@outlook.com)
 
 ---
-
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/Edwi-na/count.svg" />
+![Visitor Count](https://profile-counter.glitch.me/Edwi-na/count.svg)
 
 
 
