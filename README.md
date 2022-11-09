@@ -5,6 +5,8 @@
 <p align="center">
   <img src="![xiuming Li](https://github.com/Edwi-na/Edwi-na/blob/main/intro.gif)">
 </p>
+
+![Name](https://github.com/Edwi-na/Edwi-na/blob/main/intro.gif))
 I am a MS Student at Columbia University who is passionate about writing code, solving problems, automating stuff, and build models. 
 
 ---
